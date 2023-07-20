@@ -2,8 +2,3 @@ gtf: resources/Homo_sapiens.GRCh38.93.gtf
 
 log_dir: logs
 tmp_dir: tmp
-
-#ref: /juno/work/shah/isabl_data_lake/assemblies/GRCh37/GRCh37-lite/GRCh37-lite.fa
-#ref_index: /juno/work/shah/isabl_data_lake/assemblies/GRCh37/GRCh37-lite/GRCh37-lite.fa.fai
-ref: /juno/work/shah/isabl_data_lake/assemblies/WGS-GRCh38/human/GRCh38_full_analysis_set_plus_decoy_hla.fa
-ref_index: /juno/work/shah/isabl_data_lake/assemblies/WGS-GRCh38/human/GRCh38_full_analysis_set_plus_decoy_hla.fa.fai
